@@ -1,0 +1,1 @@
+Introducing an admin panel designed for Bet4Beer App for efficient management of users, referrals, tokens, leaderboard standings, and token history. With this powerful tool, administrators can easily oversee user activities, track referral statistics, manage token distribution, and monitor leaderboard progress, ensuring a smooth and engaging experience for all users.
